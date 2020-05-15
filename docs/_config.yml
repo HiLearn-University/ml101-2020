@@ -1,3 +1,10 @@
 theme: jekyll-theme-cayman
 title: ML 101
 description: Machine Learning Course
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
