@@ -28,3 +28,31 @@ conda deactivate
 # show conda path
 which conda
 ```
+
+
+## Creating new environments for each assignment
+
+We recommend you create a new environment for each assignment. We will
+specify all the required software in a requirements.txt file, which you
+can use to create a new conda environment using:
+
+```
+conda create -n assignemtn42 python=3.7 --file requirements.txt
+```
+
+After activate the environment
+```
+conda activate assignemtn42
+```
+
+Verify that the environment is activates, by verifying that pytest points to the correct environment
+```
+$$ which pytest
+/home/arsen/miniconda3/envs/assignemtn42/bin/pytest
+```
+
+Now you can run tests using pytest by running
+```
+PYTHONPATH=. pytest
+```
+
