@@ -1,7 +1,7 @@
 # Getting started Section
 
 * [Lecture 0](lecture0.slides.html)
-* [Homework 0](https://classroom.github.com/a/DbZ0wSr0)
+* [Homework 0 (due 18/05/2020)](https://classroom.github.com/a/DbZ0wSr0)
 
 # Week 1 - Regressions
 
