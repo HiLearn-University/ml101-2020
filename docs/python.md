@@ -17,18 +17,10 @@ bash ~/Downloads/Anaconda3-2020.02-Linux-x86_64.sh
 source ~/.bashrc
 ```
 
-* you can activate or deactivate conda environment with 
-```
-# to activate
-conda activate
-
-# to deactivate
-conda deactivate
-
-# show conda path
-which conda
-```
-
+* you can:
+ - activate `conda activate`
+ - deactivate `conda deactivate`
+ - show path `which conda`
 
 ## Creating new environments for each assignment
 
