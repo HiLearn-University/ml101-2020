@@ -7,6 +7,7 @@
 # Week 1: Regressions
 
 * [Lecture 1: Supervised Learning, Linear Regression](#)
+    - [video recording](https://www.youtube.com/watch?v=iOtsa18TR88)
 * [Homework 1](#)
 * [Lecture 2](#)
 * [Lecture 3](#)
