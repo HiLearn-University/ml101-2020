@@ -24,11 +24,11 @@ source ~/.bashrc
 
 ## Install Anaconda on windows
 
-* Install Git Bash (https://git-scm.com/download/win). Please note that during installation you should select the checkbox **Use Git and Optional Unix tools from the Windows Command Prompt**.
+Install Git Bash (https://git-scm.com/download/win). Please note that during installation you should select the checkbox **Use Git and Optional Unix tools from the Windows Command Prompt**.
 
-* Install Anaconda (https://www.anaconda.com/products/individual)
+Install Anaconda (https://www.anaconda.com/products/individual)
 
-* Configuring Git Bash to Run Python
+Configuring Git Bash to Run Python
 
 Open Git bash terminal. Write `pwd` to get the path of your home directory. My home directory is /c/Users/USER. If you used default settings Anaconda instalation folder should be /c/Users/USER/Anaconda3. 
 
@@ -40,7 +40,7 @@ echo 'alias python="winpty python.exe"' >> .bashrc
 source .bashrc
 ```
 
-* Test run
+Test run
 Run the following commands to make sure you can access conda, Python, and the Python interpreter.
 
 ```
