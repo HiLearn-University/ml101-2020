@@ -6,10 +6,12 @@
 
 # Week 1: Regressions
 
-* [Lecture 1: Supervised Learning, Linear Regression](#)
+* [Lecture 1: Supervised Learning, Linear Regression [html coming soon)](#)
     - [video recording](https://www.youtube.com/watch?v=iOtsa18TR88)
-* [Homework 1](#)
+    - [Ordinary Least Squares](https://are.berkeley.edu/courses/EEP118/current/derive_ols.pdf)
+* [Homework 1 (due 23/05/2020)](https://classroom.github.com/a/I_FVxAHp)
 * [Lecture 2](#)
+    - [MIT Lecture Notes on Regression](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/lec5.pdf)
 * [Lecture 3](#)
 * [Practical 1](#)
 
