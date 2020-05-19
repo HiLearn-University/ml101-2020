@@ -28,7 +28,7 @@
 * [Lecture 11:](#)
 * [Lecture 12:](#)
 
-# Week 5: Naural Networks
+# Week 5: Neural Networks
 * [Lecture 13: Neural Networks](#)
 * [Lecture 14:](#)
 * [Lecture 15:](#)
