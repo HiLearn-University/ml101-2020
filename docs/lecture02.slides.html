@@ -13270,18 +13270,22 @@ x_{iK}
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="$$\begin{bmatrix}">$$\begin{bmatrix}<a class="anchor-link" href="#$$\begin{bmatrix}">&#182;</a></h4><p>Y_1 \
-Y_2 \
-\vdots \
-\vdots \
-Y_N</p>
-<h1 id="\end{bmatrix}_{N\times-1}">\end{bmatrix}_{N\times 1}<a class="anchor-link" href="#\end{bmatrix}_{N\times-1}">&#182;</a></h1>\begin{bmatrix}
+$$
+\begin{bmatrix}
+Y_1 \\
+Y_2 \\
+\vdots \\
+\vdots \\
+Y_N \
+\end{bmatrix}_{N\times 1} 
+= 
+\begin{bmatrix}
 1 &amp; X_{11} &amp; X_{12} &amp; \ldots &amp; X_{1K}\\
 1 &amp; X_{21} &amp; X_{22} &amp; \ldots &amp; X_{2K}\\
 \vdots &amp; \vdots &amp; \vdots &amp; \ldots &amp; \vdots \\
 \vdots &amp; \vdots &amp; \vdots &amp; \ldots &amp; \vdots \\
 1 &amp; X_{N1} &amp; X_{N2} &amp; \ldots &amp; X_{NK}\\
-\end{bmatrix}<p>_{N\times K+1}
+\end{bmatrix}_{N\times K+1}
 \begin{bmatrix}
 \beta_0 \\
 \beta_1 \\
@@ -13297,8 +13301,7 @@ Y_N</p>
 \vdots \\
 \epsilon_N
 \end{bmatrix}_{N\times 1}
-$$</p>
-
+$$
 </div>
 </div>
 </div></div><div class="fragment">
@@ -13368,12 +13371,11 @@ $$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$ Loss =  y^T y - 2 \beta^T X^T y + \beta^T X^T X \beta $</p>
-<h2 id="$\frac{\partial{Loss}}{\partial{\beta}}">$\frac{\partial{Loss}}{\partial{\beta}}<a class="anchor-link" href="#$\frac{\partial{Loss}}{\partial{\beta}}">&#182;</a></h2><p>= \frac{\partial{\epsilon^T \epsilon}}{\partial{\beta}}
+$$ Loss =  y^T y - 2 \beta^T X^T y + \beta^T X^T X \beta $$$$ \frac{\partial{Loss}}{\partial{\beta}}
+= \frac{\partial{\epsilon^T \epsilon}}{\partial{\beta}}
 = \frac{\partial{(y^T y - 2 \beta^T X^T y + \beta^T X^T X \beta)}}{\partial{\beta}}
 = -2 X^T y + 2X^T X \beta
-$</p>
-<p>using 
+$$<p>using 
 $ \frac{\partial{(\beta^T Z \beta)}}{\partial{\beta}} = 2 Z \beta$ and 
 $ \frac{\partial{\beta^T Z}}{\partial{\beta}} = Z$
 See <a href="https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf">https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_notes.pdf</a> for details.</p>
@@ -13416,18 +13418,21 @@ See <a href="https://web.stanford.edu/~mrosenfe/soc_meth_proj3/matrix_OLS_NYU_no
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h4 id="$$\begin{bmatrix}">$$\begin{bmatrix}<a class="anchor-link" href="#$$\begin{bmatrix}">&#182;</a></h4><p>Y_1 \
-Y_2 \
-\vdots \
-\vdots \
-Y_N</p>
-<h1 id="\end{bmatrix}_{N\times-1}">\end{bmatrix}_{N\times 1}<a class="anchor-link" href="#\end{bmatrix}_{N\times-1}">&#182;</a></h1>\begin{bmatrix}
+$$\begin{bmatrix}
+Y_1 \\
+Y_2 \\
+\vdots \\
+\vdots \\
+Y_N
+\end{bmatrix}_{N\times 1}
+=
+\begin{bmatrix}
 1 &amp; X_{1} &amp; X_{1}^2 &amp; \ldots &amp; X_{1}^K\\
 1 &amp; X_{1} &amp; X_{2}^2 &amp; \ldots &amp; X_{2}^K\\
 \vdots &amp; \vdots &amp; \vdots &amp; \ldots &amp; \vdots \\
 \vdots &amp; \vdots &amp; \vdots &amp; \ldots &amp; \vdots \\
 1 &amp; X_{N} &amp; X_{N}^2 &amp; \ldots &amp; X_{N}^K\\
-\end{bmatrix}<p>_{N\times K+1}
+\end{bmatrix}_{N\times K+1}
 \begin{bmatrix}
 \beta_0 \\
 \beta_1 \\
@@ -13443,8 +13448,7 @@ Y_N</p>
 \vdots \\
 \epsilon_N
 \end{bmatrix}_{N\times 1}
-$$</p>
-
+$$
 </div>
 </div>
 </div></div></section><section>
@@ -13845,13 +13849,10 @@ $$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<p>$ = \mathop{\mathbb{E}}[(f^* - \mathop{\mathbb{E}}[\hat{f}])^2 + \epsilon^2 + (\hat{f} - \mathop{\mathbb{E}}[\hat{f}]  )^2</p>
-<ul>
-<li>2\mathop{\mathbb{E}}[(f^*-\mathop{\mathbb{E}}[\hat{f}])\epsilon]</li>
-<li>2\mathop{\mathbb{E}}[(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])\epsilon]]</li>
-<li>2\mathop{\mathbb{E}}[(f^*-\mathop{\mathbb{E}}[\hat{f}])(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])] $</li>
-</ul>
-
+$$ = \mathop{\mathbb{E}}[(f^* - \mathop{\mathbb{E}}[\hat{f}])^2 + \epsilon^2 + (\hat{f} - \mathop{\mathbb{E}}[\hat{f}]  )^2 
++ 2\mathop{\mathbb{E}}[(f^*-\mathop{\mathbb{E}}[\hat{f}])\epsilon]
+- 2\mathop{\mathbb{E}}[(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])\epsilon]]
+- 2\mathop{\mathbb{E}}[(f^*-\mathop{\mathbb{E}}[\hat{f}])(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])] $$
 </div>
 </div>
 </div></div></section><section>
@@ -13859,14 +13860,11 @@ $$</p>
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
 <p>Using $\epsilon$ is independent of of data</p>
-<p>$ = Bias[\hat{f}]^2 + Var[\epsilon] + Var[\hat{f}]</p>
-<ul>
-<li>2 \mathop{\mathbb{E}}[\epsilon] \left(
+$$ = Bias[\hat{f}]^2 + Var[\epsilon] + Var[\hat{f}]
++ 2 \mathop{\mathbb{E}}[\epsilon] \left(
 \mathop{\mathbb{E}}[(f^*-\mathop{\mathbb{E}}[\hat{f}]) - \mathop{\mathbb{E}}[(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])
-\right)</li>
-<li>2(f^* - \mathop{\mathbb{E}}[\hat{f}])\mathop{\mathbb{E}}[(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])$</li>
-</ul>
-
+\right)
++ 2(f^* - \mathop{\mathbb{E}}[\hat{f}])\mathop{\mathbb{E}}[(\hat{f}-\mathop{\mathbb{E}}[\hat{f}])$$
 </div>
 </div>
 </div></section><section>
@@ -14000,10 +13998,10 @@ $$</p>
 <div class="cell border-box-sizing text_cell rendered"><div class="prompt input_prompt">
 </div><div class="inner_cell">
 <div class="text_cell_render border-box-sizing rendered_html">
-<h2 id="$\frac{\partial{Loss}}{\partial{\beta}}">$\frac{\partial{Loss}}{\partial{\beta}}<a class="anchor-link" href="#$\frac{\partial{Loss}}{\partial{\beta}}">&#182;</a></h2><p>= \frac{\partial{(y^T y - 2 \beta^T X^T y + \beta^T X^T X \beta +  \lambda \beta^T \beta)}}{\partial{\beta}}
+$$ \frac{\partial{Loss}}{\partial{\beta}}
+= \frac{\partial{(y^T y - 2 \beta^T X^T y + \beta^T X^T X \beta +  \lambda \beta^T \beta)}}{\partial{\beta}}
 = -2 X^T y + 2X^T X \beta + 2 \lambda \beta
-$</p>
-
+$$
 </div>
 </div>
 </div></div><div class="fragment">
