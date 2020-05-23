@@ -14,6 +14,7 @@
     - [video recording](https://youtu.be/bu0xXHFqKOM)
     - [MIT Lecture Notes on Regression](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/lec5.pdf)
 * [Lecture 3](#)
+    - [video recording](https://www.youtube.com/watch?v=5q2xLEAHsvg)
 * Practical 1
   - [Video Overview (coming soon)](#)
   - [Assignment (due 28/05/2020)](https://classroom.github.com/a/eaJT4YWq)
