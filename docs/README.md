@@ -16,7 +16,7 @@
 * [Lecture 3](#)
     - [video recording](https://www.youtube.com/watch?v=5q2xLEAHsvg)
 * Practical 1
-  - [Video Overview (coming soon)](#)
+  - [Video Overview](https://www.youtube.com/watch?v=fzcbr-Bact8)
   - [Assignment (due 28/05/2020)](https://classroom.github.com/a/eaJT4YWq)
     
 
