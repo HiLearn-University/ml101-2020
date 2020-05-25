@@ -23,6 +23,7 @@
 
 # Week 2: Trees, Ensembles, Confusion Matrix
 * [Lecture 4: Classification](#)
+    - [video recording](https://www.youtube.com/watch?v=3mID981B4Hw)
 * [Lecture 5:](#)
 * [Lecture 6:](#)
 
