@@ -13,15 +13,20 @@
 * [Lecture 2: Multidimensional OLS, Regularization](lecture02.slides.html)
     - [video recording](https://youtu.be/bu0xXHFqKOM)
     - [MIT Lecture Notes on Regression](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/lec5.pdf)
-* [Lecture 3](#)
+* [Lecture 3: Hyper-parameter Search, Cross-Validation](lecture03.slides.html)
     - [video recording](https://www.youtube.com/watch?v=5q2xLEAHsvg)
-* Practical 1
+* Practical 1: Predict Apartment Prices in Yerevan
   - [Video Overview](https://www.youtube.com/watch?v=fzcbr-Bact8)
+  - [Slides](practical1.slides.html)
   - [Assignment (due 28/05/2020)](https://classroom.github.com/a/eaJT4YWq)
     
 
 # Week 2: Trees, Ensembles, Confusion Matrix
-* [Lecture 4: Classification](#)
+* [Lecture 4: Classification, Performance Measures](#)
+    - [Slides](lecture04.html)
+    - [video recording](https://www.youtube.com/watch?v=3mID981B4Hw)
+    - [Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+    - [Hnads-On ML](https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf)
 * [Lecture 5:](#)
 * [Lecture 6:](#)
 
@@ -35,7 +40,7 @@
 * [Lecture 11:](#)
 * [Lecture 12:](#)
 
-# Week 5: Naural Networks
+# Week 5: Neural Networks
 * [Lecture 13: Neural Networks](#)
 * [Lecture 14:](#)
 * [Lecture 15:](#)
