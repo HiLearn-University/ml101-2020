@@ -22,8 +22,11 @@
     
 
 # Week 2: Trees, Ensembles, Confusion Matrix
-* [Lecture 4: Classification](#)
+* [Lecture 4: Classification, Performance Measures](#)
+    - [Slides](lecture04.html)
     - [video recording](https://www.youtube.com/watch?v=3mID981B4Hw)
+    - [Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+    - [Hnads-On ML](https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf)
 * [Lecture 5:](#)
 * [Lecture 6:](#)
 
