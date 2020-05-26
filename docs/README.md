@@ -16,7 +16,7 @@
 * [Lecture 3: Hyper-parameter Search, Cross-Validation](lecture03.slides.html)
     - [video recording](https://www.youtube.com/watch?v=5q2xLEAHsvg)
 * Practical 1: Predict Apartment Prices in Yerevan
-  - [Video Overview](https://youtu.be/fzcbr-Bact8)
+  - [Video Overview](https://www.youtube.com/watch?v=fzcbr-Bact8)
   - [Slides](practical1.slides.html)
   - [Assignment (due 28/05/2020)](https://classroom.github.com/a/eaJT4YWq)
     
