@@ -27,7 +27,9 @@
     - [video recording](https://www.youtube.com/watch?v=3mID981B4Hw)
     - [Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
     - [Hnads-On ML](https://www.lpsm.paris/pageperso/has/source/Hand-on-ML.pdf)
-* [Lecture 5:](#)
+* [Lecture 5: Feature engineering, Decision Tree](#)
+    - [Slides](lecture05.html)
+    - [video recording](https://www.youtube.com/watch?v=C9rt_a0FPHI&t)
 * [Lecture 6:](#)
 
 # Week 3: Gradient Descent, Feature Norm
