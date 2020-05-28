@@ -28,7 +28,7 @@ Install Git Bash (https://git-scm.com/download/win). Please note that during ins
 
 Install Anaconda (https://www.anaconda.com/products/individual)
 
-Configuring Git Bash to Run Python
+### Configuring Git Bash to Run Python
 
 Open Git bash terminal. Write `pwd` to get the path of your home directory. My home directory is /c/Users/USER. If you used default settings Anaconda instalation folder should be /c/Users/USER/Anaconda3. 
 
