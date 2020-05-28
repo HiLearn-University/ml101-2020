@@ -32,7 +32,7 @@ Configuring Git Bash to Run Python
 
 Open Git bash terminal. Write `pwd` to get the path of your home directory. My home directory is /c/Users/USER. If you used default settings Anaconda instalation folder should be /c/Users/USER/Anaconda3. 
 
-Next, enter the following commands in your terminal, replacing[YOUR_PATH] with the path to your Anaconda installation. For example, I would replace [YOUR PATH] in the string below with /c/Users/USER/Anaconda3.
+Next, enter the following commands in your **git-bash terminal**, replacing[YOUR_PATH] with the path to your Anaconda installation. For example, I would replace [YOUR PATH] in the string below with /c/Users/USER/Anaconda3.
 
 ```
 echo 'export PATH="$PATH:[YOUR_PATH]:[YOUR_PATH]/Scripts"' >> .bashrc
