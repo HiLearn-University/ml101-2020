@@ -35,7 +35,7 @@
     - [video recording](https://www.youtube.com/watch?v=1AGP95BHpQ4&t=422s)
 * Practical 2: Predict earthquake destruction
     - [Assignment](https://classroom.github.com/a/9dVw1cEi)
-    - [Video Overview]()
+    - [Video Overview](https://www.youtube.com/watch?v=t_gG8COSikg)
 
 # Week 3: Gradient Descent, Feature Norm
 * [Lecture 7: Logistic Regression](lecture7.html)
