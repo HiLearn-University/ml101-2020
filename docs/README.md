@@ -38,7 +38,9 @@
     - [Video Overview](https://www.youtube.com/watch?v=t_gG8COSikg)
 
 # Week 3: Gradient Descent, Feature Norm
-* [Lecture 7: Logistic Regression](lecture7.html)
+* [Lecture 7: Logistic Regression](#)
+    - [Slides](lecture7.html)
+    - [Video recording](https://www.youtube.com/watch?v=xczR5rc3gIU)
 * [Lecture 8:](#)
 * [Lecture 9:](#)
 
