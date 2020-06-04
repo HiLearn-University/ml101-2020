@@ -44,6 +44,8 @@
 * [Lecture 8:](#)
     - [HTML](lecture8.slides.html)
     - [Video recording](https://www.youtube.com/watch?v=hlQ3UxdQhNk)
+    - [Gradient Descent](https://ruder.io/optimizing-gradient-descent/)
+    - [Perceptron convergence theorem](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-867-machine-learning-fall-2006/lecture-notes/lec2.pdf)
 * [Homework 3 (due 08/06/2020)](https://classroom.github.com/a/rSuiYWu3)
 * [Lecture 9:](#)
 
