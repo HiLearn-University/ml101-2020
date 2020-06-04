@@ -44,6 +44,7 @@
 * [Lecture 8:](#)
     - [HTML](lecture8.slides.html)
     - [Video recording](https://www.youtube.com/watch?v=hlQ3UxdQhNk)
+* [Homework 3 (due 08/06/2020)](https://classroom.github.com/a/rSuiYWu3)
 * [Lecture 9:](#)
 
 # Week 4: Classification - SVM
