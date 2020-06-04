@@ -42,6 +42,8 @@
     - [Slides](lecture7.html)
     - [Video recording](https://www.youtube.com/watch?v=xczR5rc3gIU)
 * [Lecture 8:](#)
+    - [HTML](lecture8.slides.html)
+    - [Video recording](https://www.youtube.com/watch?v=hlQ3UxdQhNk)
 * [Lecture 9:](#)
 
 # Week 4: Classification - SVM
