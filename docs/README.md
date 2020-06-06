@@ -30,6 +30,7 @@
 * [Lecture 5: Feature engineering, Decision Tree](#)
     - [Slides](lecture05.html)
     - [video recording](https://www.youtube.com/watch?v=C9rt_a0FPHI&t)
+* [Homework 2](https://classroom.github.com/a/g6ip6lMo)
 * [Lecture 6:](#)
     - [Slides](lecture06.html)
     - [video recording](https://www.youtube.com/watch?v=1AGP95BHpQ4&t=422s)
