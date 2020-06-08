@@ -51,6 +51,9 @@
 * [Lecture 9:](#)
     - [HTML](lecture9.slides.html)
     - [Video recording](https://www.youtube.com/watch?v=_I6Qnz6qtVA)
+* [Practical 3:](#)
+    - [Video overview](https://www.youtube.com/watch?v=nQ8RGKWS2Zo)
+    - [Assignment](https://classroom.github.com/a/4FX2Hm63)
 
 # Week 4: Classification - SVM
 * [Lecture 10: Support Vector Machines](#)
