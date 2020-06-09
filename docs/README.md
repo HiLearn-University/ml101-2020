@@ -55,8 +55,11 @@
     - [Video overview](https://www.youtube.com/watch?v=nQ8RGKWS2Zo)
     - [Assignment](https://classroom.github.com/a/4FX2Hm63)
 
-# Week 4: Classification - SVM
-* [Lecture 10: Support Vector Machines](#)
+# Week 4: SVM
+* [Lecture 10: Kernel Methods](#)
+    - [Video overview](https://www.youtube.com/watch?v=UezGyLikKeo)
+    - [Notes Bishop 6.1, 6.2](https://drive.google.com/file/d/1D4QyOtN--x1RnaIDQwSsVDS1vx18S6Ay/view?usp=sharing)
+
 * [Lecture 11:](#)
 * [Lecture 12:](#)
 
