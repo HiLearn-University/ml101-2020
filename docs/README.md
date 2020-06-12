@@ -60,7 +60,7 @@
     - [Video overview](https://www.youtube.com/watch?v=UezGyLikKeo)
     - [Notes Bishop 6.1, 6.2](https://drive.google.com/file/d/1D4QyOtN--x1RnaIDQwSsVDS1vx18S6Ay/view?usp=sharing)
 * [Lecture 11: SVM](#)
-    - [Video overview]()
+    - [Video overview](https://www.youtube.com/watch?v=gEx06Axpltky)
     - [Notes, Bishop 7, 7.1](https://drive.google.com/file/d/1DXbYF-0Unj8yQgFhVl2yjHy4WzhOetyz/view?usp=sharing)
     - [svm stadford lecture notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
 * [Homework 4 (due 15/06/2020)](https://classroom.github.com/a/aTgypp99)
