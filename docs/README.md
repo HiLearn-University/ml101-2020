@@ -59,17 +59,19 @@
 * [Lecture 10: Kernel Methods](#)
     - [Video overview](https://www.youtube.com/watch?v=UezGyLikKeo)
     - [Notes Bishop 6.1, 6.2](https://drive.google.com/file/d/1D4QyOtN--x1RnaIDQwSsVDS1vx18S6Ay/view?usp=sharing)
-
-* [Lecture 11:](#)
-* [Lecture 12:](#)
+* [Lecture 11: SVM](#)
+    - [Video overview]()
+    - [Notes, Bishop 7, 7.1](https://drive.google.com/file/d/1DXbYF-0Unj8yQgFhVl2yjHy4WzhOetyz/view?usp=sharing)
+    - [svm stadford lecture notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)
+* [Homework 4 (due 15/06/2020)](https://classroom.github.com/a/aTgypp99)
 
 # Week 5: Neural Networks
-* [Lecture 13: Neural Networks](#)
+* [Lecture 12: Neural Networks](#)
+* [Lecture 13:](#)
 * [Lecture 14:](#)
-* [Lecture 15:](#)
 
 # Week 6: Unsupervised Learning
+* [Lecture 15:](#)
 * [Lecture 16:](#)
 * [Lecture 17:](#)
-* [Lecture 18:](#)
 
