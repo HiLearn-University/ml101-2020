@@ -66,7 +66,9 @@
 * [Homework 4 (due 15/06/2020)](https://classroom.github.com/a/aTgypp99)
 
 # Week 5: Neural Networks
-* [Lecture 12: Neural Networks](#)
+* [Lecture 12: Neural Networks introduction](#)
+    - [Video overview](https://www.youtube.com/watch?v=4riRc4iIwgo)
+    - [Notes](https://drive.google.com/file/d/1GLhP6AHzM-L5W8ymiuckqNBHQFihKy_M/view?usp=sharing)
 * [Lecture 13:](#)
 * [Lecture 14:](#)
 
