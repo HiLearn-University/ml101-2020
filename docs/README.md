@@ -72,7 +72,9 @@
 * [Lecture 12: Neural Networks introduction](#)
     - [Video overview](https://www.youtube.com/watch?v=4riRc4iIwgo)
     - [Notes](https://drive.google.com/file/d/1GLhP6AHzM-L5W8ymiuckqNBHQFihKy_M/view?usp=sharing)
-* [Lecture 13:](#)
+* [Lecture 13: Neural Networks layers](#)
+    - [Notes](https://drive.google.com/file/d/1v_AvnNvhKNo8Ry0u1UmMwl7jn_TmIh32/view?usp=sharing)
+    - [Presentation](https://drive.google.com/file/d/1tLCuboflnIt2ZbEUUE7QevhaEH6fIC8K/view?usp=sharing)
 * [Lecture 14:](#)
 
 # Week 6: Unsupervised Learning
