@@ -76,6 +76,7 @@
     - [Video](https://www.youtube.com/watch?v=9l0yvMTEfvA)
     - [Notes](https://drive.google.com/file/d/1v_AvnNvhKNo8Ry0u1UmMwl7jn_TmIh32/view?usp=sharing)
     - [Presentation](https://drive.google.com/file/d/1tLCuboflnIt2ZbEUUE7QevhaEH6fIC8K/view?usp=sharing)
+* [Homework 5 (due 24/06/2020)](https://classroom.github.com/a/V7E60vT2)
 * Lecture 14:
 
 # Week 6: Unsupervised Learning
