@@ -75,7 +75,9 @@
 * [Lecture 13: Neural Networks layers](#)
     - [Notes](https://drive.google.com/file/d/1v_AvnNvhKNo8Ry0u1UmMwl7jn_TmIh32/view?usp=sharing)
     - [Presentation](https://drive.google.com/file/d/1tLCuboflnIt2ZbEUUE7QevhaEH6fIC8K/view?usp=sharing)
-* [Lecture 14:](#)
+* [Lecture 14: NN final lecture](#)
+    - [Notes](https://drive.google.com/file/d/1r-Enue9NjhSw-nTmEG2LRJVKKYIM9w8i/view?usp=sharing)
+    - [Video overview](https://www.youtube.com/watch?v=svffzJklUB0)
 
 # Week 6: Unsupervised Learning
 * Lecture 15:
