@@ -83,6 +83,10 @@
 
 # Week 6: Unsupervised Learning
 * Lecture 15:
+    - [Video](https://www.youtube.com/watch?v=mKMGDWC9jJk)
+    - [Slides](lecture15.slides.html)
 * Lecture 16:
+    - [Video](https://www.youtube.com/watch?v=9H07set4FqU)
 * Lecture 17:
+* [Homework 6 (due 2/07/2020)](https://classroom.github.com/a/8Vte9npC)
 
